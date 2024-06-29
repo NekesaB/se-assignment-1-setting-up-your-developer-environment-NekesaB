@@ -1,0 +1,36 @@
+Select Your Operating System (OS): Unfortunately, my machine is not compatible with windows 11.
+Download and Install Visual Studio Code.
+      went to https://code.visualstudio.com/
+      downloaded vs code and installed on pc 
+      ran the downloaded intaller 
+      
+Create a GitHub account for hosting your repositories. Initialize a Git repository for your project and make your first commit.
+      github account username: NekesaB
+      git repo initialized, 
+      ![alt text](<Screenshot (3).png>)
+
+Installing Python
+      python.org/downloads
+      launched the downloaded installer 
+      clicked on the add to path checkbox and ran the installer 
+      ran python on command prompt and gitbash 
+      ![alt text](Python-1.png)
+
+MySQL Database 
+      https://dev.mysql.com/downloads/installer/
+      selected version and downloaded 
+      selected the server only option then executed
+      for type and networking selected the development computer option as the configuration option
+      default setting port number 3306
+      checked the Show Advanced and Logging Option box
+      authentication method:selected the Strong Password Authentication option.
+      configured MySQL as a Windows Service and checked the Start System Startup option
+      ran Windows service as a standard system account
+      set up logging options and then applied configuration by clicking execute
+      copied log to clipboard then clicked on finish
+      ran the link copied on command prompt and intalled mysql 
+      also downloaded MySQL workbench and installed 
+      ![alt text](MySQL.png)
+
+![alt text](image-1.png)
+
